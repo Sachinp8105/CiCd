@@ -4,3 +4,8 @@ Dev --- Staging -- production environment
 
 
 Develop ---> Commit ---> Build ---> Test ---> Release(Deployee)
+
+
+Blue  Green deployeement ---- version based deployeement
+
+Canary Deployeement --- first check to limited user working then apply to all user in production 
