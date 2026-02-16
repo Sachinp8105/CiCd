@@ -1,2 +1,6 @@
 All  about CI CD  (Continuous integration and continuous deliverry)
 
+Dev --- Staging -- production environment
+
+
+Develop ---> Commit ---> Build ---> Test ---> Release(Deployee)
