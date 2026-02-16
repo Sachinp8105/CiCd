@@ -1,0 +1,12 @@
+Jenkins
+
+Agent types 
+
+cloud agents ---> docker , kuberneties , aws 
+
+Build types ----->  Freestyle Build ---> simple method to  create build 
+              |                          feels like shell scripting 
+              |
+              |
+              |--> Pipelines  -----> Ue the groovy syntax
+                                     broken into stages 5  -----  
